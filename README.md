@@ -15,8 +15,33 @@
 
 ## 🚀 Projects
 
-### 🔹 SmartScan AI Evaluator
-AI-based answer sheet evaluation system with OCR and automated scoring  
+# SmartScan AI Evaluator
+
+## 📌 Description
+SmartScan AI Evaluator is an AI-powered web application that automatically evaluates handwritten and objective answer sheets using OCR and semantic analysis.
+
+## 🚀 Features
+- Upload answer sheets (images/PDF)
+- OCR-based text extraction
+- AI-powered answer evaluation
+- Automatic scoring system
+- Teacher dashboard
+
+## 🛠 Tech Stack
+- Backend: Spring Boot (Java)
+- Frontend: Angular
+- Database: MySQL
+- AI/OCR: Tesseract / NLP
+
+## 👥 Team Project
+Developed collaboratively as part of a team project.  
+My contributions include:
+- Backend development (API integration)
+- OCR processing integration
+- Evaluation logic implementation
+
+## 🎯 Purpose
+To reduce manual effort in answer sheet evaluation and provide fast, unbiased results.
 
 ### 🔹 AI Resume Builder
 Generates professional resumes using AI  
