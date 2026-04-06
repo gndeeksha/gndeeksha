@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Deeksha 👋
 
-<!--
-**gndeeksha/gndeeksha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Java Full Stack Developer | MCA Student  
+💡 Building AI-powered and scalable web applications  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills
+- Java, Spring Boot, Hibernate  
+- HTML, CSS, JavaScript, Angular  
+- MySQL, REST APIs  
+- Git, GitHub  
+
+---
+
+## 🚀 Projects
+
+### 🔹 SmartScan AI Evaluator
+AI-based answer sheet evaluation system with OCR and automated scoring  
+
+### 🔹 AI Resume Builder
+Generates professional resumes using AI  
+
+### 🔹 Carbon Footprint Tracker
+Tracks carbon emissions and promotes eco-friendly actions  
+
+### 🔹 Personal Finance Tracker
+Manages income, expenses, and budgeting  
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gndeeksha&show_icons=true&theme=tokyonight)
+
