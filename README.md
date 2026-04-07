@@ -1,26 +1,26 @@
 # Hi, I'm Deeksha 👋
 
-🚀 Java Full Stack Developer | MCA Student  
-💡 Building AI-powered and scalable web applications  
+ Java Full Stack Developer | MCA Student  
+ Building AI-powered and scalable web applications  
 
 ---
 
-## 🧠 Skills
-- Java, Spring Boot, Hibernate  
-- HTML, CSS, JavaScript, Angular  
-- MySQL, REST APIs  
+##  Skills
+- Java, Spring Boot, Hibernate
+- HTML, CSS, JavaScript, Angular, React  
+- MySQL, REST APIs 
 - Git, GitHub  
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 # SmartScan AI Evaluator
 
-## 📌 Description
+##  Description
 SmartScan AI Evaluator is an AI-powered web application that automatically evaluates handwritten and objective answer sheets using OCR and semantic analysis.
 
-## 🚀 Features
+##  Features
 - Upload answer sheets (images/PDF)
 - OCR-based text extraction
 - AI-powered answer evaluation
@@ -33,14 +33,14 @@ SmartScan AI Evaluator is an AI-powered web application that automatically evalu
 - Database: MySQL
 - AI/OCR: Tesseract / NLP
 
-## 👥 Team Project
+##  Team Project
 Developed collaboratively as part of a team project.  
 My contributions include:
 - Backend development (API integration)
 - OCR processing integration
 - Evaluation logic implementation
 
-## 🎯 Purpose
+##  Purpose
 To reduce manual effort in answer sheet evaluation and provide fast, unbiased results.
 
 ### 🔹 AI Resume Builder
@@ -54,6 +54,6 @@ Manages income, expenses, and budgeting
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gndeeksha&show_icons=true&theme=tokyonight)
 
