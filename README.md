@@ -27,7 +27,7 @@ SmartScan AI Evaluator is an AI-powered web application that automatically evalu
 - Automatic scoring system
 - Teacher dashboard
 
-## 🛠 Tech Stack
+## Tech Stack
 - Backend: Spring Boot (Java)
 - Frontend: Angular
 - Database: MySQL
