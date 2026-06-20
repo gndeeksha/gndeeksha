@@ -1,6 +1,6 @@
 # Hi, I'm Deeksha 👋
 
- Java Full Stack Developer | MCA Student  
+
  Building AI-powered and scalable web applications  
 
 ---
